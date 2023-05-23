@@ -1,0 +1,9 @@
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+c:\cshp_outubro_2018\EstudoRepo\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

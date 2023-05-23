@@ -1,0 +1,16 @@
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\TesteRepo.deps.json
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\TesteRepo.runtimeconfig.json
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\TesteRepo.runtimeconfig.dev.json
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\TesteRepo.dll
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\TesteRepo.pdb
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\DataAccess.dll
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\bin\Debug\netcoreapp2.1\DataAccess.pdb
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.csprojAssemblyReference.cache
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.csproj.CoreCompileInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.AssemblyInfoInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.AssemblyInfo.cs
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.csproj.CopyComplete
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.dll
+c:\cshp_outubro_2018\EstudoRepo\TesteRepo\obj\Debug\netcoreapp2.1\TesteRepo.pdb

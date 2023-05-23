@@ -1,0 +1,12 @@
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+c:\cshp_outubro_2018\EstudoRepo\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
